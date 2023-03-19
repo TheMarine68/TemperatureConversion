@@ -1,5 +1,3 @@
-# Earl Miller CIS261 Temperature Conversion Lab
-
 def to_celsius(fahrenheit):
     celsius = (fahrenheit - 32) * 5/9
     return celsius
